@@ -1,0 +1,2 @@
+
+streamlit run "C:\Users\kalpita\Desktop\Multiple_D_P\MDPS.py"
